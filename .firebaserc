@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "projeto-79b17": {
+      "hosting": {
+        "app": [
+          "projeto-79b17"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "projeto-79b17"
+  }
+}
